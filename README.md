@@ -1,0 +1,1 @@
+# activeadmin_exemple
